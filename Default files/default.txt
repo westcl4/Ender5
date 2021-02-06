@@ -1,0 +1,1 @@
+This folder contains all the files that came on the SD card included with the printer
